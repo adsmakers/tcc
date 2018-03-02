@@ -1,0 +1,45 @@
+
+Lista de Componentes para Automacao de Residencia
+.
+Arduino
+Rele
+Placa de rede com fio
+Placa de rede sem fio
+Interruptor Wifi
+Interruptor Touch
+Dimers
+Sensor de Voz
+Sensor de Som
+Sensor de Gestos
+Sensor de Temperatura
+Sensor de Presenca/Movimentos
+Sensor de Fumaca
+Sensor de Gas
+Sensor de Alcool
+Transmissor RF (Radio Frequencia)
+Receptor RF
+Transmissor IR (Infra Red)
+Receptor IR
+Sensor Touch
+Monitores Touch
+Display Oled
+Teclado Numpad Touch
+Leitor RF ID
+Cartao RF ID
+Etiquetas RF ID
+Aceita API para monitoramento web
+Aceita API para envio de email
+Aceita API para envio de SMS
+Solucoes prontas de apps para celular
+Cartao SD
+Protocolos Cliente/Servidor
+Sensor de Peso
+Sensor de Amperagem
+Sensor laser
+Sensor de distancia
+Sensor magnetico
+Sensor de Tensão
+Beep
+Relogio de tempo real
+
+
