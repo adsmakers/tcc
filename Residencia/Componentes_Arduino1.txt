@@ -16,6 +16,16 @@ Sensor de Presenca/Movimentos
 Sensor de Fumaca
 Sensor de Gas
 Sensor de Alcool
+Sensor de Chuva
+Sensor de Humidade do Solo
+Sensor de Humidade do Ar
+Sensor de Peso
+Sensor de Amperagem
+Sensor de Tensão Volts
+Sensor com laser
+Sensor Ultrasônico
+Sensor de distancia
+Sensor magnetico
 Transmissor RF (Radio Frequencia)
 Receptor RF
 Transmissor IR (Infra Red)
@@ -33,13 +43,9 @@ Aceita API para envio de SMS
 Solucoes prontas de apps para celular
 Cartao SD
 Protocolos Cliente/Servidor
-Sensor de Peso
-Sensor de Amperagem
-Sensor laser
-Sensor de distancia
-Sensor magnetico
-Sensor de Tensão
 Beep
 Relogio de tempo real
+Motores
+
 
 

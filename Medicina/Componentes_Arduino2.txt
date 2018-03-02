@@ -3,6 +3,11 @@ Lista de Componentes para Automacao de Hospitais / Medicina
 .
 Arduino
 
+Aplicaçoes - exemplos de arduino na medicina:
 https://www.tecstudio.com.br/arduino-ajuda-medicina/
+
+
+Projeto sensor de batimentos cardiacos:
+http://www.eletronite.com.br/projetos/sensor-de-batimentos-cardiacos-com-arduino
 
 
