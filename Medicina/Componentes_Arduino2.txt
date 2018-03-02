@@ -1,0 +1,8 @@
+
+Lista de Componentes para Automacao de Hospitais / Medicina
+.
+Arduino
+
+https://www.tecstudio.com.br/arduino-ajuda-medicina/
+
+
