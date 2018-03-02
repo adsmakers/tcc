@@ -1,0 +1,96 @@
+
+Comandos GIT.
+Link lista de comandos
+https://gist.github.com/leocomelli/2545add34e4fec21ec16
+
+Após instalar o GIT
+
+Preparar o git no PC - nome do user: 
+$git config --global user.name "adsmakers"
+
+Preparar o git no PC - E-mail github:
+$git config --global user.email "contato@pcaomaximo.com.br"
+
+Setar editor:
+git config --global core.editor vim
+
+Criar pasta:
+$mkdir nomePasta
+
+Entrar na pasta:
+$cd nomePasta
+
+Voltar a pasta Inicial do Git
+$cd
+
+Criar um arquivo:
+vi arquivo.txt
+
+Mostrar status de alterações
+$git status
+
+adicionar um arquivo ao versionamento:
+$git add arquivo.txt
+$git add pasta
+
+Adicionar Todos arquivos ao versionamneto:
+$git add .  ( git add espaço ponto)
+
+Commitar um arquivo ( local): + comentario log
+$git commit -m "adicionei a funcao media no arquivo.ino"
+
+Commitar varios arquivos (local):
+$git commit meu_arquivo.txt meu_outro_arquivo.txt
+ 
+Exibir historico:
+$git log 
+
+Exibir Historico de arquivo especifico
+$git log -- <caminho_do_arquivo>
+
+#################################################
+Exibir os repositórios remotos:
+$git remote
+
+$git remote -v
+#################################################
+
+Vincular repositório local com um repositório remoto:
+$git remote add origin git@github.com:adsmakers/tcc.git
+
+#################################################
+
+Exibir informações dos repositórios remotos
+$git remote show origin
+
+#################################################
+
+Criar novo branch:  ( não sincronizar direto com o master, deve enviar para o branch antes)
+
+$git branch temp
+
+##################################################
+
+Sincronizar pastas do PC ( Origin) para o Remoto
+$git push -u origin temp
+
+###################################################
+
+Juntar um branch-temporario ao branch master:
+
+$git merge temp
+
+###################################################
+Gerar chave ssh no prompt
+$ssh-keygen -t rsa -b 4096 -C "seu_email@gmail.com"
+
+Ver chave em...
+C:\Users\admin\.ssh\id_rsa.pub
+
+Cole a chave no github:
+https://github.com/settings/keys
+
+
+
+
+
