@@ -1,0 +1,4 @@
+teste de commit em seguida merge
+
+upload com push para temp, depois tentar juntar com master
+
